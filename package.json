@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^6.0.21",
+    "@sweetalert2/theme-dark": "^5.0.16",
+    "@tabler/icons-react": "^2.47.0",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "sweetalert2": "^11.10.5",
+    "tabler": "^1.0.0-alpha.8"
   }
 }
